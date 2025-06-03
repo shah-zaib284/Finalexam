@@ -9,7 +9,8 @@ function App() {
   useEffect(color : Yellow )
 
 useState(col)
-<button>id=1 Red <style>
+<button>id=1 </button>
+ <style>
   
   
   <style>
@@ -25,9 +26,10 @@ useState(col)
 
  <body>
   onclick(getElementbyId(1)
-color: useEffect())
+color: useEffect(QuerySelector(1)))
   
- </body> </button>
+ </body> 
+
 
 
 
