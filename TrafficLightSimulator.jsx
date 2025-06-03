@@ -1,34 +1,49 @@
-import { Component, useState } from "react"
+import { Component, useState, useTransition } from "react"
 import { useEffect } from "react"
 import { useState } from 'react'
 
 
-Component
+Component() {
 function App() {
-  const [count, setCount] = useState(1, 3000);
-  useEffect(color : Yellow )
+  const [count, setCount] = useState(setInterval(1, 3000);
+  useEffect(color : Yellow, callback(functionApp(onanimationend)) )
 
-useState(col)
+useState(while( color=Red, setTimeout((id) => {
+    
+  }3000, timeout);)))
+
+useState(if color=Yellow, setTimeout((id) => {
+    
+  }3000, timeout);)
+
+
+  useState(if color= Green, setTimeout((id) => {
+    
+  }3000, timeout);)
+}
+
+
+useTransition()
+}
+
 <button>id=1 </button>
  <style>
   
   
   <style>
     
-    id : 1, {color: Red} ;
+    id : 1, {color: Red, } ;
   id: 2 { color : Yellow};
   id : 3 {color : Green };
+
 
 
 </style>
 
 
 
- <body>
-  onclick(getElementbyId(1)
-color: useEffect(QuerySelector(1)))
+
   
- </body> 
 
 
 
