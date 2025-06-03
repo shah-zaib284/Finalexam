@@ -3,6 +3,31 @@ import { useEffect } from "react"
 import { useState } from 'react'
 
 
+
+// repo link: https://github.com/shah-zaib284/Finalexam.git
+
+
+<style>
+    
+    id :1 {color : Red } ;
+  id: 2 { color : Yellow};
+  id : 3 {color : Green };
+
+<Transitions>
+//apply transitions for the color of circles to be changed
+
+
+
+
+</Transitions>
+
+</style>
+
+
+
+
+
+
 Component() {
 function App() {
   const [count, setCount] = useState(setInterval(1, 3000);
@@ -23,24 +48,11 @@ useState(if color=Yellow, setTimeout((id) => {
 }
 
 
-useTransition()
+
 }
-
-<button>id=1 </button>
- <style>
   
   
-  <style>
-    
-    id : 1, {color: Red, } ;
-  id: 2 { color : Yellow};
-  id : 3 {color : Green };
-
-
-
-</style>
-
-
+  
 
 
   
